@@ -15,8 +15,8 @@ https://www.instructables.com/id/Tutorial-for-TTP223-Touch-Sensor-Module-Capacit
 Connectivity:
 
 - Raspberry Pi connected to the projector with HDMI cable
-- Raspberry Pi connected to WLAN (Wifi) of local area network
-- Projector connected via ethernet cable to the LAN of the loacal area network
+- Raspberry Pi connected to WLAN (Wifi) 
+- Projector connected via ethernet cable to the LAN 
 
 THE PROJECTOR MUST SUPPORT COMMANDS THROUGHT THE PJLINK PROTOCOL TO WORK AS THESE COMMANDS ARE USED TO SWITCH IT ON AND OFF
 THE PROJECTOR MUST HAVE LAN CONNECTIVITY
