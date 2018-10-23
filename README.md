@@ -34,8 +34,8 @@ Personalization:
 
 Script:
 - final script is projector_app.py	
-- term_projector_app.py is a script with different just settings 
-you can use the program Cron to have this script always running on Raspberry Pi
+- term_projector_app.py is a script with just different settings 
+you can use the program Cron to have the python script always running on Raspberry Pi
 
 Important libraries used in this project:
 - cv2     library used for loading and having setting the images full screen
