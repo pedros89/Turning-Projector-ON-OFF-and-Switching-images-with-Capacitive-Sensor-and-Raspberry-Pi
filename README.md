@@ -1,6 +1,7 @@
 # Turning-Projector-ON-OFF-and-Switching-images-with-Capacitive-Sensor-and-Raspberry-Pi
 Using projector Panasonic PT-JW130 connected via HDMI to Raspberry Pi and using a cheap capacitive touch board based on chip TTP223 to turn Projector on and off and switch between some images projected
 
+THE FINAL SCRIPT IS projector_app.py
 
 Hardware:
 
@@ -14,7 +15,7 @@ Connectivity:
 - Raspberry Pi connected to WLAN (Wifi) of local area network
 - Projector connected via ethernet cable to the LAN of the loacal area network
 
-THE PROJECTOR MUST SUPPORT COMMANDS THROUGHT THE PJLINK PROTOCOL TO WORK AS THESE COMMANDS ARE USED TO SWITCHED IT ON AND OFF
+THE PROJECTOR MUST SUPPORT COMMANDS THROUGHT THE PJLINK PROTOCOL TO WORK AS THESE COMMANDS ARE USED TO SWITCH IT ON AND OFF
 THE PROJECTOR MUST HAVE LAN CONNECTIVITY
 
 Settings:
@@ -24,7 +25,14 @@ Settings:
 
 Personalization:
 - customize the images you want to project
-- customize the time between needed to turn the projector ON/OFF
+- decide which is going to be the image folder for your images
+- customize the time used to turn the projector ON/OFF
+- customize the time between touches on the capacitive sensor
+
+Script:
+- final script is projector_app.py	
+- term_projector_app.py is a script with different just settings 
+you can use the program Cron to have this script always running on Raspberry Pi
 
 Important libraries used in this project:
 - cv2     library used for loading and having setting the images full screen
