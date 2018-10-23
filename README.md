@@ -10,6 +10,7 @@ Hardware:
 - Raspberry Pi 3B
 - Panasonic PT-JW130 Projector
 - TTP223 Capacitive Touch Sensor Butt
+https://www.instructables.com/id/Tutorial-for-TTP223-Touch-Sensor-Module-Capacitive/
 
 Connectivity:
 
