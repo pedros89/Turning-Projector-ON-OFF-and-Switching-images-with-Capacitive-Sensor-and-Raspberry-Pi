@@ -37,3 +37,6 @@ you can use the program Cron to have this script always running on Raspberry Pi
 Important libraries used in this project:
 - cv2     library used for loading and having setting the images full screen
 - pypjlink    library used for managing the PJlink commands to turn projector on and off remotely
+
+Feel free to watch the descriptive video
+Video music credits Aitua Elements - III Blue SkyElements
