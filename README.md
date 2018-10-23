@@ -3,6 +3,8 @@ Using projector Panasonic PT-JW130 connected via HDMI to Raspberry Pi and using 
 
 THE FINAL SCRIPT IS projector_app.py
 
+Demonstrative video https://www.youtube.com/watch?v=BXwR5uL4AZE
+
 Hardware:
 
 - Raspberry Pi 3B
